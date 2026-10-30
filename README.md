@@ -1,10 +1,10 @@
-# Kortix: the open-source AI Operating System for a self-hosted OpenHands alternative
+# Kortix: the open-source CompanyOS for a self-hosted OpenHands alternative
 
-Kortix is the open-source AI Operating System: your agents, skills, company memory and connectors live in one git repo you own, and every session runs on its own cloud computer.
+Kortix is the open-source CompanyOS: your agents, skills, company memory and connectors live in one git repo you own, and every session runs on its own cloud computer.
 
 If you run a coding-agent harness today and you are weighing an OpenHands alternative you can self-host and govern, start here. The guides below take Kortix from install to a governed platform: the open-source stack on your own server, the comparison with OpenHands, and the straight answers to the questions teams ask first.
 
-OpenHands is a self-hosted developer control center for coding agents and automations ([OpenHands on GitHub](https://github.com/OpenHands/OpenHands)). Its job is code: agents read repositories, run terminals and tests, and open pull requests. Kortix is the open-source AI Operating System for the whole company. Agents, skills, memory and connector rules are files in one git repo, every session runs on its own isolated machine, and every change lands through a change request a person reads as a diff.
+OpenHands is a self-hosted developer control center for coding agents and automations ([OpenHands on GitHub](https://github.com/OpenHands/OpenHands)). Its job is code: agents read repositories, run terminals and tests, and open pull requests. Kortix is the open-source CompanyOS for the whole company. Agents, skills, memory and connector rules are files in one git repo, every session runs on its own isolated machine, and every change lands through a change request a person reads as a diff.
 
 Both projects are open source and both self-host, so the deciding question is the job. If you need agents that change code in your repositories, OpenHands is a strong specialist. If you need to own and govern the agents, memory and connectors that run across a company, run Kortix.
 
@@ -47,7 +47,7 @@ Self-hosting is free, and the managed cloud is there when you want it. Get start
 
 ## Read next
 
-The companion pages carry the rest of the decision: [OpenHands alternatives](https://openhands-alternative.com/openhands-alternatives) compares the open-source options by the job each finishes, [OpenHands vs Kortix](https://openhands-alternative.com/openhands-vs-kortix) sets a coding harness against a whole AI Operating System, and [OpenHands pricing](https://openhands-alternative.com/openhands-pricing) works through what a team pays once the work leaves coding. For the move itself there is [Migrate from OpenHands](https://openhands-alternative.com/migrate-from-openhands), and for governance and self-hosting, [OpenHands for teams](https://openhands-alternative.com/openhands-for-teams).
+The companion pages carry the rest of the decision: [OpenHands alternatives](https://openhands-alternative.com/openhands-alternatives) compares the open-source options by the job each finishes, [OpenHands vs Kortix](https://openhands-alternative.com/openhands-vs-kortix) sets a coding harness against a whole CompanyOS, and [OpenHands pricing](https://openhands-alternative.com/openhands-pricing) works through what a team pays once the work leaves coding. For the move itself there is [Migrate from OpenHands](https://openhands-alternative.com/migrate-from-openhands), and for governance and self-hosting, [OpenHands for teams](https://openhands-alternative.com/openhands-for-teams).
 
 ## More of the decision
 
